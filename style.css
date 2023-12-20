@@ -5,7 +5,7 @@
     --very-dark-cyan:hsl(179, 100%, 13%);
 }
 * {
-    font-size:15px;
+    
     margin:0;
     font-family:'Lexend Deca', sans-serif;
     color:#fff;
@@ -56,6 +56,9 @@ button:hover {
 h1 {
     margin-block:2em;
     font-family:'Big Shoulders Display', sans-serif;
+}
+button, p {
+    font-size:15px;
 }
 .sedans {
     color:var(--bright-orange);
