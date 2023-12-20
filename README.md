@@ -56,5 +56,5 @@ i want to learn how to use both flex-box and grid in the same layout to achieve 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Name - Raya-atta
 - Frontend Mentor - [@rayatta](https://www.frontendmentor.io/profile/rayaatta)
