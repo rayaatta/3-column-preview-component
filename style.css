@@ -11,6 +11,7 @@
 - Family: [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display)
 - Weights: 700
 */
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
 :root {
     --bright-orange:hsl(31, 77%,52%);
     --dark-cyan:hsl(184, 100%, 22%);
@@ -19,7 +20,7 @@
 * {
     font-size:15px;
     margin:0;
-    font-family:sans-serif;
+    font-family:'Lexend Deca', sans-serif;
     color:#fff;
     box-sizing:border-box;
 }
@@ -67,6 +68,7 @@ button:hover {
 }
 h1 {
     margin-block:2em;
+    font-family:'Big Shoulders Display', sans-serif;
 }
 .sedans {
     color:var(--bright-orange);
