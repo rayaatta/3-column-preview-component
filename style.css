@@ -54,6 +54,7 @@ button:hover {
     border:2px solid #fff;
 }
 h1 {
+    font-size:32px;
     margin-block:2em;
     font-family:'Big Shoulders Display', sans-serif;
 }
