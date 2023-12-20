@@ -4,7 +4,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Table of contents
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -25,8 +24,8 @@ Users should be able to:
 ![](./screenshot.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/rayaatta/3-column-preview-component](https://github.com/rayaatta/3-column-preview-component)
+- Live Site URL: [https://rayaatta.github.io/3-column-preview-component/](https://rayaatta.github.io/3-column-preview-component/)
 ## My process
 
 ### Built with
