@@ -20,6 +20,7 @@ body{
 }
 main{
     width:325px;
+    border-radius:5px;
 }
 section {
     width:100%;
